@@ -1,0 +1,14 @@
+.product-detail-card {
+    display: flex;
+    gap: 2rem;
+    padding: 1rem;
+    align-items: center;
+    max-width: 850px;
+    margin: auto;
+}
+
+.product-image {
+    width: 220px;
+    height: 220px;
+
+}
