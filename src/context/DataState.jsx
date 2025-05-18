@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import DataContext from "./DataContext";
-import { items } from "./data";
+import { items } from "./Data";
 import { ToastContainer, toast, Bounce } from "react-toastify";
 
 const DataState = (props) => {
